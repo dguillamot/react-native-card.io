@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/BBB/card.io-react-native#readme",
   "devDependencies": {
-    "babel": "^5.8.23",
+    "babel": "^5.8.23"
   }
 }
